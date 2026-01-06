@@ -13,4 +13,6 @@ NOTE: ChromaDB does not support Python 3.12 and up as of latest commit.Python 3.
 
 -> pip install -r requirements.txt #To install the required libraries
 
+->python index_db.py #To create the persisted vector database in your root path
+
 -> python main.py #To run the program in cmd
